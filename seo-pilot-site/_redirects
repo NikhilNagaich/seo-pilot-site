@@ -1,0 +1,5 @@
+# ✅ Redirect all requests to index.html (for SPA support)
+/*    /index.html   200
+
+# ✅ Redirect www to non-www
+https://www.theseopilot.pro/*    https://theseopilot.pro/:splat   301!
